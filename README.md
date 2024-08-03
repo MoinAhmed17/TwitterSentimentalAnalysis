@@ -1,4 +1,6 @@
-Twitter Sentiment Analysis
+#Twitter Sentiment Analysis#
+
+
 Overview
 This project performs sentiment analysis on tweets fetched from Twitter using the Twitter API. The aim is to classify tweets as positive, negative, or neutral based on their content. This can be useful for understanding public sentiment on various topics, brands, or events.
 
