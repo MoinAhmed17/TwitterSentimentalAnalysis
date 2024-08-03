@@ -8,21 +8,13 @@ This project performs sentiment analysis on tweets fetched from Twitter using th
 Features:
 
 Fetch tweets using the Twitter API.
-
 Preprocess and clean tweet text.
-
 Perform sentiment analysis using natural language processing (NLP) techniques.
-
 Visualize the results using graphs and charts.
 
 Requirements:
-
 Python 3.7+
-
 Pandas
-
 Matplotlib
-
 Seaborn
-
 Jupyter Notebook (optional, for development and testing)
